@@ -1,10 +1,40 @@
 {
-    "user":{
-        "id": 1,
-        "name": "John Doe",
-        "email": "podwad@gmail.com",
-        "password": "password123",
-        "created_at": "2023-10-01T12:00:00Z",
-        "updated_at": "2023-10-01T12:00:00Z"
+  "user": [
+    {
+      "id": "4bef",
+      "name": "In dolor aliquid omn",
+      "email": "Est ipsa cillum in ",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "139a",
+      "name": "daw",
+      "email": "daw",
+      "password": "dawd"
+    },
+    {
+      "id": "9228",
+      "name": "Deleniti quod irure ",
+      "email": "Id ut eum et in volu",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "5aff",
+      "name": "Esse cumque libero r",
+      "email": "Quos hic exercitatio",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "f949",
+      "name": "Ea animi sint volup",
+      "email": "Velit id est nisi la",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "109a",
+      "name": "pritamNostrud expedita con",
+      "email": "Eligendi ea ut qui i",
+      "password": "Pa$$w0rd!"
     }
+  ]
 }
