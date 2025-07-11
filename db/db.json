@@ -1,46 +1,16 @@
 {
   "user": [
     {
-      "id": "4bef",
-      "name": "In dolor aliquid omn",
-      "email": "Est ipsa cillum in ",
-      "password": "Pa$$w0rd!"
+      "id": "ecaf",
+      "name": "Pritam Makwana ",
+      "email": "pritam@gmail.com",
+      "password": "pritam"
     },
     {
-      "id": "139a",
-      "name": "daw",
-      "email": "daw",
-      "password": "dawd"
-    },
-    {
-      "id": "9228",
-      "name": "Deleniti quod irure ",
-      "email": "Id ut eum et in volu",
-      "password": "Pa$$w0rd!"
-    },
-    {
-      "id": "5aff",
-      "name": "Esse cumque libero r",
-      "email": "Quos hic exercitatio",
-      "password": "Pa$$w0rd!"
-    },
-    {
-      "id": "f949",
-      "name": "Ea animi sint volup",
-      "email": "Velit id est nisi la",
-      "password": "Pa$$w0rd!"
-    },
-    {
-      "id": "109a",
-      "name": "pritamNostrud expedita con",
-      "email": "Eligendi ea ut qui i",
-      "password": "Pa$$w0rd!"
-    },
-    {
-      "id": "da9d",
-      "name": "Nisi voluptatem nul",
-      "email": "Anim quis odit id qu",
-      "password": "Pa$$w0rd!"
+      "id": "838d",
+      "name": "Gopal Makwana",
+      "email": "gopal@gmail.com",
+      "password": "gopal"
     }
   ]
 }
