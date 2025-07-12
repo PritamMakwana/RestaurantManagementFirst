@@ -15,34 +15,16 @@
   ],
   "restaurant": [
     {
-      "id": 1,
+      "id": "1",
       "name": "KFC",
       "address": "Ahmadabad",
       "contact": 123123123
     },
     {
-      "id": 2,
-      "name": "Burger King",
-      "address": "Rajkot",
-      "contact": 222111333
-    },
-    {
-      "id": 2,
       "name": "Dominos",
-      "address": "Delhi",
-      "contact": 23121213
-    },
-    {
-      "id": "1a80",
-      "name": "Shellie Bowen",
-      "address": "Eos rerum sunt dist",
-      "contact": "Facere veniam porro"
-    },
-    {
-      "id": "2b26",
-      "name": "pritam makwana",
-      "address": "365601",
-      "contact": "121212121212"
+      "address": "Delhi2 ",
+      "contact": 23121213,
+      "id": "3"
     }
   ]
 }
