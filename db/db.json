@@ -12,5 +12,25 @@
       "email": "gopal@gmail.com",
       "password": "gopal"
     }
+  ],
+  "restaurant":[
+    {
+      "id":1,
+      "name": "KFC",
+      "address":"Ahmadabad",
+      "contact":123123123
+    },
+    {
+      "id":2,
+      "name": "Burger King",
+      "address":"Rajkot",
+      "contact":222111333
+    },
+    {
+      "id":2,
+      "name": "Dominos",
+      "address":"Delhi",
+      "contact":23121213
+    }
   ]
 }
