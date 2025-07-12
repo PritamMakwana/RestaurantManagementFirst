@@ -3,12 +3,18 @@
         <a href="home">Home</a>
         <a href="home">Add Restaurant</a>
         <a href="home">Update Restaurant</a>
-        <a href="home">Logout</a>
+        <a v-on:click="logout">Logout</a>
     </div>
 </template>
 <script>
 export default {
-    name: 'HeaderLayout'
+    name: 'HeaderLayout',
+    methods: {
+        logout() {
+            localStorage.clear();
+            this.$router.push({name:"LoginPage"})
+        }
+    }
 }
 </script>
 <style>
@@ -26,7 +32,8 @@ export default {
     font-size: 14px;
     margin-right: 4px;
 }
-.nav a:hover{
+
+.nav a:hover {
     background-color: #ddd;
     color: #222;
 }
