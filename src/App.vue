@@ -27,7 +27,8 @@ body {
 }
 
 .register input,
-.login input {
+.login input,
+.add input {
   width: 300px;
   height: 40px;
   padding-left: 20px;
@@ -35,14 +36,15 @@ body {
   margin-bottom: 30px;
   margin-left: auto;
   margin-right: auto;
-  border: 1px solid yellow;
+  border: 1px solid yellowgreen;
 }
 
 .register button,
-.login button {
+.login button,
+.add button {
   width: 320px;
   height: 40px;
-  background-color: yellow;
+  background-color: yellowgreen;
   color: black;
   font-weight: bold;
   border: none;
