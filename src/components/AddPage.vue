@@ -1,22 +1,16 @@
 <template>
-    <HeaderLayout />
-    <h1>Hello,{{ name }} On HomePage page</h1>
+      <HeaderLayout />
+    <h1>Hello,welcome On AddPage page</h1>
 </template>
 <script>
 import HeaderLayout from './HeaderLayout.vue'
 export default {
-    name: "HomePage",
-    data() {
-        return {
-            name: "",
-        }
-    },
+    name: "AddPage",
     components: {
         HeaderLayout
     },
     mounted() {
         let user = localStorage.getItem('user-info');
-        this.name = JSON.parse(user).name
         if (!user) {
             this.$router.push({ name: "SignUp" });
         }
